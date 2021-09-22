@@ -1,0 +1,34 @@
+<html>
+<head>
+    <title>
+        Text Formatting
+    </title>
+</head>
+
+<body>
+    <h1><b><center>Corona</center></b></h1>
+
+    <!--
+    <b> or <strong>        - Bold text
+    <i> or <em> (emphasized text)   - Italic text
+    <u>                   - Underline text
+    <mark>                 - Highlight text 
+    <del>                  - Deleted text
+    <small>                - Smaller text
+    <sub>                  - Subscript
+    <sup>                  - Superscript
+    -->
+    
+    <p> <b>Corona go! Go Corona!!</b><br>
+        <i>Corona's 3rd wave is expected to hit <del>India</del> in a few months</i><br>
+        <b><i>People are dying everyday from this shit.</i></b><br>
+        <u>Hi Samriddhi</u></p>
+
+        <p>Corona ek Mahamari <small>jisse kaafi logon ki jaan abtak jaa chuki hai</small>. Actor <mark>Sonu Sood</mark> helped save lives of many in the pandemic</p>
+
+        <p>Formula of Ferrous Hydroxide = FE(OH)<sub>2</sub><br>
+        and 6<sup>3</sup>=216</p>
+        
+</body>
+
+</html>
