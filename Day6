@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <title>Assignment 6</title>
+    </head>
+    <body style="background-color:whitesmoke;">
+
+        <h2>Insanity Learner Hunt Form</h2>
+        
+        <form>
+
+        <label style="color:teal;">First Name:</label>
+        <input type="text" name="fname"><br><br>
+
+        <label style="color:teal;">Last Name:</label>
+        <input type="text" name="lname"><br><br>
+
+        <label style="color:teal;">Gender</label>
+        <input type="radio" name="gender">Male
+        <input type="radio" name="gender">Female
+        <input type="radio" name="gender">Other<br><br>
+
+        <label style="color:teal;">Password</label>
+        <input type="password" name="password"><br><br>
+
+        <label style="color:teal;">Confirm Password</label>
+        <input type="password" name="password"><br><br>
+
+        <label style="color:teal;">Email ID</label>
+        <input type="email" name="email"><br><br>
+
+        <label style="color:teal;">Mobile Number</label>
+        <input type="text" name="mobile"><br><br>
+
+        <label style="color:teal;">Joining Date</label>
+        <input type="date" name="date"><br><br>
+
+        <label style="color:teal;">Points</label>
+        <input type="number" name="points"><br><br>
+<p>Programs:</p>
+        <select style="color:teal;">
+        <option value="Web Development">Web Development</option>
+        <option value="Android Development">Android Development</option>
+        <option value="Java">Java</option>
+        <option value="C/C++">C/C++</option>
+        <option value="Python">Python</option></select>
+        <br><br>
+
+        <p>Write about yourself:</p>
+        <textarea cols="40" rows="10"></textarea><br><br>
+
+        <label style="color:teal;">Read all the terms & conditions carefully</label> <br><br>
+        
+        <input type="checkbox">
+        <font style="color:tomato">I read the T&C carefully</font><br><br>
+
+    
+<input type="reset" name="reset"> Reset form
+<input type="submit" name="submit">Submit form
+
+</form>
+
+    </body>
+</html>
