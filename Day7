@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day7</title>
+    <style>
+        #div1{
+            color: azure;
+        }
+        #div2{
+            color: black;
+        }
+    </style>
+</head>
+<body background="/Pictures/wallpaperflare.com_wallpaper (1).jpg">
+    <div id="div1">
+        <span style="background-color: burlywood;"><h1><u>Insanity Learner Rox</u></h1></span>
+        <ul>
+            <li>Home</li>
+            <li>About Us</li>
+            <li>Technologies</li>
+            <li>Projects</li>
+            <li>Referrals</li>
+            <li>Contact Us</li>
+        </ul>
+    </div><br><kbd>
+    <div id="div2">
+        <h2 style="background-color:antiquewhite";>Books that we recommend for Finance</h2>
+        <ul><h3>
+            <u><li><a style="color:cadetblue"; href="https://www.amazon.in/Rich-Dad-Poor-Middle-Updates/dp/1612680194/ref=sr_1_2?dchild=1&keywords=rich+dad&qid=1632730355&sr=8-2">Rich Dad Poor Dad - Robert T. Kiyosaki </a> <button autofocus>BUY NOW</button></li>
+        <li><a href="https://www.amazon.in/Think-Grow-Rich-Napoleon-Hill/dp/9353338158/ref=sr_1_1_sspa?dchild=1&keywords=Think+And+Grow+Rich+-+Napolean+Hill&qid=1632730562&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFHVEc3UEpBSEU0RVkmZW5jcnlwdGVkSWQ9QTEwNDIxNDgyTEVYTjRaQ0w1SDYmZW5jcnlwdGVkQWRJZD1BMDI4ODQ4M0MyQzBSSTcwWjZCMCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=">Think And Grow Rich - Napolean Hill </a><button autofocus>BUY NOW</button></li></li>
+    <li><a style="color:cadetblue";href="https://www.amazon.in/Richest-Man-Babylon-George-Clason/dp/9388144317/ref=sr_1_3?dchild=1&keywords=The+Richest+Man+In+Babylon&qid=1632730666&sr=8-3">The Richest Man in Babylon - George S. Clason </a><button autofocus>BUY NOW</button></li></li>
+    <li><a href="https://www.amazon.in/Psychology-Money-Morgan-Housel/dp/9390166268/ref=sr_1_3?crid=2NRH84PZSOXV8&dchild=1&keywords=psychology+of+money+book&qid=1632731588&sprefix=psych%2Caps%2C343&sr=8-3">The Psychology of Money - Morgan Housel </a><button autofocus>BUY NOW</button></li></li></u>
+    
+</h3></ul></div></kbd>
+<pre>
+      <img src="/Pictures/uwp1437241.png" width="300" height="250px">
+</pre>
+
+</body>
+</html>
