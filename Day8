@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 8</title>
+    <style>
+        #div1{
+            background-color: greenyellow;
+            border: 3px outset red;
+        }
+    </style>
+</head>
+<body>
+    <div id="div1">
+       
+            <h2 style="color:darkslategray">Quotation Tags</h2>
+            <p><strong>Address Tag</strong></p>
+            <address>HNo.7, Gali No.4<br>
+                Barra-8<br>
+                Kanpur, Uttar Pradesh
+            </address>
+            <h3>Abbreviation Tag</h3>
+            <p>
+                <blockquote cite="https://www.w3schools.com/html/html_quotation_elements.asp"> <q>The HTML address tag defines the contact information for the author/owner of a document or an article.</q> <br>
+
+                    The contact information can be an email address, URL, physical address, phone number, social media handle, etc.<br>
+                    
+                    The text in the <address> element usually renders in italic, and browsers will always add a line break before and after the <address> element.</blockquote>
+                <abbr title="Greetings and Salutations ">GAS</abbr> 
+                <abbr title=" to you!">2U!</abbr> 
+
+                <abbr title="Don't quote me on this">DQMOT</abbr>, <abbr title="but seriously folks">BSF</abbr>  <abbr title="I don't know">IDK</abbr>  <abbr title="who cares anyway">WCA</abbr>  <abbr title="to text">2TXT</abbr>  <abbr title="with lists of acronyms">W/LOA</abbr>.
+
+                <abbr title="In your opinion">IYO</abbr> , <abbr title="its">ITS</abbr> <abbr title="easy">EZ</abbr> and <abbr title="pretty darn quick">PDQ</abbr> &... <abbr title="I don't think so">IDTS</abbr>.
+                <p><abbr title="See ya folks, take care Bye!">SYFTCB</abbr></p>
+                <blockquote><b><bdo dir="rtl">This is a reversed text using bdo tag.</bdo></b>      (Used bdo to reverse)</blockquote> 
+            </p>
+
+    </div>
+    
+</body>
+</html>
