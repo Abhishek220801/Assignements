@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: skyblue">
+    <h1 style="text-align: center; color: grey; background-color: pink;" >Assignments</h1>
+   
+    <iframe src="day1.html"  frameborder="10" height="300px" width="300px" name="day1">Day1</iframe>
+    <iframe src="day2.html" frameborder="10" height="300px" width="300px">Day2</iframe>
+    <iframe src="day3.html" frameborder="10" height="300px" width="300px" name="day1">Day3</iframe>
+    <iframe  src="day4.html"frameborder="10" height="300px" width="300px" name="day1">Day4</iframe>
+    <iframe src="day5.html" frameborder="10" height="300px" width="300px" name="day1">Day5</iframe>
+    <iframe src="day6.html" frameborder="10" height="300px" width="300px" name="day1">Day6</iframe>
+    <iframe src="day7.html" frameborder="10" height="300px" width="300px" name="day1">Day7</iframe>
+    <iframe src="day8.html" frameborder="10" height="300px" width="300px" name="day1">Day8</iframe><br><br>
+
+    <iframe src="https://en.wikipedia.org/wiki/HTML5" frameborder="20" height="200" width="1300" name="iframes"></iframe>
+ 
+</body>
+</html>
