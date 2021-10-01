@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 10</title>
+    <style>
+        #heads{
+            color: blueviolet;
+        }
+    </style>
+</head>
+<body style="background-color: snow;">
+    <h2 style = "text-align: center;" id="heads">DAY 10 Assignment</h2>
+    <hr>
+        
+<h3 id="heads">The kbd Element </h3>
+
+<p > The kbd element is used to define keyboard input:</p>
+<p>Save the document by pressing <kbd>ctrl+S</kbd></p>
+
+<h3 id="heads"> The samp Element</h3>
+
+<p>The samp element is used to define sample output from a computer program.</p>
+<p>Message from my computer:</p>
+
+<samp>File not found.<br>
+Press F1 to continue</samp>
+
+<h3 id="heads"> The code Element</h3>
+
+<p>Programming code example:</p>
+
+<code>x=5;</code> <code>y=6;</code> <code>z=x+y</code>
+
+<h3 id="heads"> The var Element</h3>
+The area of a triangle is: <var> 1/2 x b x h</var>, where b is the base, and h is the vertical height.
+<var><blockquote><b><cite>India</cite></i></b>
+<p>India, officially the Republic of India (Hindi: Bharat Ganardjya), is a country in South Asia, It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world.</p>
+<p>Insanity Learner goal is to: <q>Provide Good quality of Education</q></p>
+<p>The <abbr title="Insanity Learner">IL</abbr> was found in 2021</p>
+<p>They have a <abbr title="PenDrive">PD</abbr> for Installing <abbr title="Operating System">OS</abbr></p>
+<p>My friend name is <abbr title="Soumya Jain">SJ</abbr>, She is in <abbr title="India">IN</abbr>.</p>
+<address>Written By: 
+
+<a href="www.insanitylearner.com">Insanity Learner</a><br>
+Visit Us at: <a href="www.insanitylearner.com">www.insanitylearner.com</a> <br>
+
+202,<br>
+India<br>
+Web development Course By Insnaity Learner</address>
+
+<p><bdo dir="rtl"> This text is reversed using bdo tag</bdo></p>
+</blockquote></var> 
+</body>
+</html>
