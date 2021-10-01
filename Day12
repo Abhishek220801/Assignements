@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 12</title>
+    <style>
+        .black{
+            background-color: black;
+        }
+    </style>
+</head>
+<body background="/Pictures/wp1828902-programmer-wallpapers.png">
+    <center>&#x02665;&#x02665;&#x02665;</center>
+    <h1 style="background-color: thistle;">Let's wrap up HTML</h1><hr>
+    <p><h3><cite>Things that we covered so far...</cite></h3></p>
+    <span id="black" style="background-color: yellow;"></span>
+    <ul><li>HTML Basics</li>
+        <li>HTML Elements</li>
+        <li>HTML Attributes</li>
+        <li>HTML Headings</li>
+        <li>HTML Tables</li>
+        <li>HTML Lists</li>
+        <li>HTML Block & InLine</li>
+        <li>HTML ID</li>
+        <li>HTML Class</li>
+        <li>HTML IFrames</li>
+        <li>HTML Styles</li>
+        <li>HTML Formatting</li>
+        <li>HTML Quotations</li>
+        <li>HTML Semantics</li> <br>  
+        <video src="/Pictures/WhatsApp Video 2021-09-30 at 16.31.21.mp4" width="150" controls loop></video>
+    </ul></span>
+    <hr>
+    <a href ="https://github.com/Abhishek220801" target="_blank">Contact Us </a>&nbsp;&nbsp;<a href="https://github.com/Abhishek220801 " target="_blank">Privacy & Policy</a>&nbsp;&nbsp;<a href="https://github.com/Abhishek220801" target="_blank">Terms</a>&nbsp;&nbsp;<a href="https://github.com/Abhishek220801" target="_blank">Consultants</a>&nbsp;&nbsp;<a href="https://github.com/Abhishek220801" target="_blank">FAQ Partners</a>
+    
+</body>
+</html>
