@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 11</title>
+    <style>
+        #black{
+            color: orangered;
+        }
+        #yellow{
+            color: yellow;
+        }
+    </style>
+</head>
+<body style="color: honeydew;" background="/Pictures/2.jpg">
+<p><h1 style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Register at Insanity Learner</h1></p>
+<p>Please fill in this form to create an account.</p>
+<hr>
+<label for="email">Email: </label>
+<input type="email" name="Enter email">&nbsp;
+<label for="password">Password: </label>
+<input type="password">&nbsp;
+<label for="password">Repeat Password: </label>
+<input type="password">
+<hr><br>
+
+<div id="black">By creating an account you agree to our <a href="terms.io" target="_blank">Terms & Conditions</a></div> checkbox
+<button>Register</button>
+<p >Already have an account?<a id="yellow" href="www.gmail.com">Sign in</a></p>
+<h3 style="text-align: center;">Insanity Learner &#128151</h3>
+<p style="text-align: center;">&#128525 &#128525</p>
+<p style="text-align: center;">&#128525 &#128525</p>
+<p style="text-align: center;">&#128525 &#128525</p>
+<p style="text-align: center;">&#128525 &#128525</p>
+<p style="text-align: center;">&#128525 &#128525</p>
+<p style="text-align: center;">&#128525 &#128525</p>
+<p style="text-align: center;">&#128525 &#128525</p>
+<p style="text-align: center;">&#128525 &#128525</p>
+<p style="text-align: center;">&#128525 &#128525 &#128525 &#128525 &#128525 &#128525 &#128525 &#128525 &#128525 &#128525</p>
+
+</body>
+</html>
